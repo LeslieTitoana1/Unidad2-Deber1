@@ -33,11 +33,20 @@ Ing. Darwin Omar Alulema Flores
 **CAPITULO VII**
 
 <div align="center">
+  
+
 </div>
  
 **CAPITULO VIII**
 
 <div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/123520660-4ad72c80-d677-11eb-819b-6ca5e32a501d.png)
+
+![image](https://user-images.githubusercontent.com/84430867/123520767-00a27b00-d678-11eb-84d2-1cdea59b3aec.png)
+
+![image](https://user-images.githubusercontent.com/84430867/123520804-465f4380-d678-11eb-8a8b-b3a4d79c01de.png)
+
 </div>
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
