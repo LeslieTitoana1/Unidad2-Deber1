@@ -30,12 +30,12 @@ Ing. Darwin Omar Alulema Flores
 
 # 2. MARCO TEORICO
 
-**CAPITULO V**
+**CAPITULO VII**
 
 <div align="center">
 </div>
  
-**CAPITULO VI**
+**CAPITULO VIII**
 
 <div align="center">
 </div>
