@@ -44,6 +44,11 @@ Ing. Darwin Omar Alulema Flores
 
 # Problemas Capitulo  VII
 
+**7-1La red en serie-paralelo**
+
+1.Para las redes de la ﬁgura 7-46,determine cuáles resistores y ramas están enserie y cuáles en paralelo. Escriba una expresión para la resistencia total,
+RT.
+
 # PROBLEMAS CAPÍTULO VIII
 
 # 4. VIDEO
