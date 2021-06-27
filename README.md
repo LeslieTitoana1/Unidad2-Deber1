@@ -68,10 +68,23 @@ Ing. Darwin Omar Alulema Flores
 1.Para las redes de la ﬁgura 7-46,determine cuáles resistores y ramas están enserie y cuáles en paralelo. Escriba una expresión para la resistencia total,
 RT.
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/123533596-4d1fa200-d6dc-11eb-83af-180a60b28432.png)
+
+![image](https://user-images.githubusercontent.com/84430867/123533604-5577dd00-d6dc-11eb-85db-2c83985641b0.png)
+  
+</div>
 
 3.Escriba una expresión para R T1 y R T2 para las redes de la ﬁ gura 7-48.
 
-![image](https://user-images.githubusercontent.com/84430867/123531647-ff02a280-d6cb-11eb-966f-c6746b4f6589.png)
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/123533647-9ff95980-d6dc-11eb-9c8e-1d28522ff436.png)
+
+![image](https://user-images.githubusercontent.com/84430867/123533652-aab3ee80-d6dc-11eb-8724-00ad619393b2.png)
+
+</div>
 
 5.Las redes de resistore s tienen las resistenc ias totales que se muestran a conti-nuación. Dibuje un circuito quecorresponda a cada expresión.
 unRT( R1 R2 R3)( R4 R5)
@@ -84,17 +97,17 @@ B. RT R1( R2 R3)[ R4( R5 R6)]
 
 ![image](https://user-images.githubusercontent.com/84430867/123531821-5c4b2380-d6cd-11eb-955d-1dfff942bea0.png)
 
-9. Calcule la resistencia Ra b y RCD en el circuito de la ﬁ gura 7-52.
+9. Calcule la resistencia Ra b y RCD en el circuito de la ﬁgura 7-52.
 
 ![image](https://user-images.githubusercontent.com/84430867/123531847-94526680-d6cd-11eb-9115-fcc847f2e978.png)
 
-11.V ea el circu ito de la ﬁ gura 7-54.
+11. Vea el circuito de la ﬁgura 7-54.
 Las siguientes cantidades:
-un RT
+A. RT
 
-B. I T, I 1, I 2, I 3, I 4
+B. IT, I1, I2, I3, I4
 
-C.V ab,V antes de Cristo
+C. Vab, Vbc
 
 ![image](https://user-images.githubusercontent.com/84430867/123531923-16db2600-d6ce-11eb-8d35-dddf0c6068ca.png)
 
