@@ -69,8 +69,7 @@ Ing. Darwin Omar Alulema Flores
 RT.
 
 
-3.
-Escriba una expresión para R T1 y R T2 para las redes de la ﬁ gura 7-48.
+3.Escriba una expresión para R T1 y R T2 para las redes de la ﬁ gura 7-48.
 
 ![image](https://user-images.githubusercontent.com/84430867/123531647-ff02a280-d6cb-11eb-966f-c6746b4f6589.png)
 
@@ -148,9 +147,24 @@ C.EncuentreV  DS.
 **7- 4 Potenciómetros. **
 
 27. Vea el circuito de la ﬁgura 7-69:
+
 una.Determine el intervalo de voltajes que aparecerán en R La medida que el potenciómetro varíe entre sus valores mínimo y máximo.
 
 B. Si R 2 se ajusta para tener 2.5 k ¿Cuál será el voltaje V  L? Si se remueve elresistor de carga ¿qué voltaje llegará entre las terminales a y b?
+
+![image](https://user-images.githubusercontent.com/84430867/123532533-6f60f200-d6d3-11eb-8473-2d5fde0feb1d.png)
+
+29. Si el potenciómetro de la ﬁgura 7-70 se ajusta para que R2 200 ,de ter-minalos voltajes V ab y V antes de Cristo.
+
+![image](https://user-images.githubusercontent.com/84430867/123532567-e0080e80-d6d3-11eb-8353-6960f5af4b7f.png)
+
+31. Vea el circuito de la ﬁgura 7-71:
+
+una. Determine el intervalo del voltaje de salida (del mínimo al máximo) que seespera cuando el potenciómetro se ajusta del mínimo al máximo.
+
+b. Calcule R2 cuando V sal  20 V.
+
+![image](https://user-images.githubusercontent.com/84430867/123532598-4856f000-d6d4-11eb-958d-311447688ddb.png)
 
 
 
