@@ -148,7 +148,7 @@ C.EncuentreV  DS.
 
 27. Vea el circuito de la ﬁgura 7-69:
 
-una.Determine el intervalo de voltajes que aparecerán en R La medida que el potenciómetro varíe entre sus valores mínimo y máximo.
+A. Determine el intervalo de voltajes que aparecerán en R La medida que el potenciómetro varíe entre sus valores mínimo y máximo.
 
 B. Si R 2 se ajusta para tener 2.5 k ¿Cuál será el voltaje V  L? Si se remueve elresistor de carga ¿qué voltaje llegará entre las terminales a y b?
 
@@ -160,9 +160,9 @@ B. Si R 2 se ajusta para tener 2.5 k ¿Cuál será el voltaje V  L? Si se rem
 
 31. Vea el circuito de la ﬁgura 7-71:
 
-una. Determine el intervalo del voltaje de salida (del mínimo al máximo) que seespera cuando el potenciómetro se ajusta del mínimo al máximo.
+A. Determine el intervalo del voltaje de salida (del mínimo al máximo) que seespera cuando el potenciómetro se ajusta del mínimo al máximo.
 
-b. Calcule R2 cuando V sal  20 V.
+B. Calcule R2 cuando V sal  20 V.
 
 ![image](https://user-images.githubusercontent.com/84430867/123532598-4856f000-d6d4-11eb-958d-311447688ddb.png)
 
