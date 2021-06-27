@@ -172,6 +172,22 @@ B. Calcule R2 cuando V sal  20 V.
 
 # PROBLEMAS CAPÍTULO VIII
 
+23.Vea el circuito de la ﬁgura 8-83:
+
+una.Escriba Las ecuaciones de Corriente de rama.
+
+B.Encuentre la corriente I 2.
+
+C.Determine el voltaje V ab.
+
+![image](https://user-images.githubusercontent.com/84430867/123533499-c4086b00-d6db-11eb-8499-5891287e5a35.png)
+
+
+
+
+
+
+
 # 4. VIDEO
 
 # 5. CONCLUSIONES
