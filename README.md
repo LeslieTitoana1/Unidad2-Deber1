@@ -249,59 +249,107 @@ B.Encuentre la corriente I 2.
 
 C.Determine el voltaje V ab.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123533499-c4086b00-d6db-11eb-8499-5891287e5a35.png)
+  
+  </div>
 
 **8-5 Un ál es es de mall como ( lazos)**
 
 25. Escriba las ecuaciones de ma lla para el circuito que se muestra en la ﬁgura 8-79 y encuentre las corrientes de lazo.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123533717-5eb57980-d6dd-11eb-825d-4d2f0419c683.png)
+  
+  </div>
 
 27. Use el a nálisis de malla para encontrar la corriente I2 en el circuito de la ﬁgura 
 8-81.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123533749-90c6db80-d6dd-11eb-8303-c6596320c8f7.png)
+  
+  </div>
 
 29. Utilizar el análisis de malla para encontrar las corrientes de lazo en el circuito de la 
 ﬁgura 8-84. Usar sus resultados para determinar I y V ab.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123533776-d1265980-d6dd-11eb-9533-0d2ad087f7f2.png)
+  
+  </div>
 
 31. Escriba las ecuaciones de malla para la red de la ﬁgura 8-86. Las Encontrar corrientes de lazo con determinantes.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123533825-4003b280-d6de-11eb-84f0-182a2d09b005.png)
+  
+  </div>
 
 **8-6 Un ál es es de no hacer s**
 
 33. Escriba las ecuaciones de nodos para el circuito de la ﬁgura 8-88 y encuentrelos voltajes en los nodos.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123533873-86f1a800-d6de-11eb-8c04-cd7faf1e70f2.png)
+  
+  </div>
 
 35. Repita el problema 33 para el circuito de la ﬁgura 8-90.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123533896-b0aacf00-d6de-11eb-8528-69523e274620.png)
+  
+  </div>
 
 37. Escriba las ecuaciones de nodos para el circuito de la ﬁgura 8-86 y encuentre V 6 .
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123533918-ddf77d00-d6de-11eb-839a-db8b5bceb30a.png)
+  
+  </div>
 
 ** 8-7 Conversiones delta- Y (Pi -T )**
 
 39. Convierta cada una de las redes  de la ﬁgura 8-92 en su conﬁguración Y equivalente.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123533970-29119000-d6df-11eb-9e22-69ec48fe39d4.png)
+  
+  </div>
 
 41. Convierta cada una de las redes Y de la ﬁgura 8-94 en su conﬁguración  equivalente.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123533996-624a0000-d6df-11eb-8473-5a186ad8cecc.png)
+  
+  </div>
 
 43. Utilice las estafadores versi las  -Y o Y -  ,para encontrar la corriente I  para el circuito de la ﬁgura 8-96.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123534047-b654e480-d6df-11eb-91f3-a083c2ffff8d.png)
+  
+  </div>
 
 45. Repita el problema 43 para el circulo de la ﬁgura 8-98.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123534190-e0f36d00-d6e0-11eb-870e-9407842f0974.png)
+  
+  </div>
 
 ** 8 -8 Redes puente **
 
@@ -315,21 +363,37 @@ C.Calcule la corriente a través de R5.
 
 D.Determine el voltaje en R5
 
-![image](https://user-images.githubusercontent.com/84430867/123534244-5fe8a580-d6e1-11eb-81e4-bb3f32261e02.png)
+<div align="center">
 
+![image](https://user-images.githubusercontent.com/84430867/123534244-5fe8a580-d6e1-11eb-81e4-bb3f32261e02.png)
+  
+  </div>
+  
 49. En el circuito puente de la ﬁgura 8-102 encuentre la corriente a través de cada resistor.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/123534268-8eff1700-d6e1-11eb-9454-b90943c01b48.png)
+  
+  </div>
 
 ** 8-9 Análisis de circuitos por computadora **
 
 51. Utilice Multisim para encontrar las corrientes a través de todos los resistores del circuito que se muestra en la ﬁgura 8-86.
+  
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123534317-f9b05280-d6e1-11eb-8648-31b9d86d61aa.png)
-
+  
+  </div>
+  
 53. Use PSpice para encontrar las corrientes a través de todos los resistores del circuito de la ﬁgura 8-96.
+  
+  <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123534355-3aa86700-d6e2-11eb-9b1e-9c9b6d5de5f4.png)
+  
+  </div>
 
 
 
