@@ -145,8 +145,9 @@ C. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/123532127-1cd20680-d6d0-11eb-9d68-541c309ea2cc.png)
-  
+![image](https://user-images.githubusercontent.com/84430867/123715440-ee723980-d83d-11eb-9e06-5480e5119d5e.png)
+![image](https://user-images.githubusercontent.com/84430867/123715501-106bbc00-d83e-11eb-8ac2-c2a5809fe32e.png)
+
 </div>
 
 A. Encuentre las corrientes indicadas.
