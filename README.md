@@ -159,7 +159,7 @@ C. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las
 
 **7-3 Aplicacion es de los circuitos en serie-paralelo.**
 
-17.Encuentra hoy las corrientes y caídas de voltaje en el circuito de la ﬁgura 7-60. 
+17. Encuentra hoy las corrientes y caídas de voltaje en el circuito de la ﬁgura 7-60. 
 
 Veriﬁque que la potencia suministrada por la fuente de voltaje es igual a la potencia disipada por los resistores y por el diodo zener.
 
@@ -169,7 +169,7 @@ Veriﬁque que la potencia suministrada por la fuente de voltaje es igual a la p
 
 </div>
 
-19.En el circuito de la ﬁgura 7-62 determinar el intervalo de R (valores máximo ymínimo) que asegurarán que el voltaje de salida sea de VL = 5.6 V mientrasque no se exceda la especiﬁcación de máxima potencia del diodo zener.
+19. En el circuito de la ﬁgura 7-62 determinar el intervalo de R (valores máximo ymínimo) que asegurarán que el voltaje de salida sea de VL = 5.6 V mientrasque no se exceda la especiﬁcación de máxima potencia del diodo zener.
 
 <div align="center">
   
