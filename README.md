@@ -369,7 +369,7 @@ D.Determine el voltaje en R5
 
 ![image](https://user-images.githubusercontent.com/84430867/123534244-5fe8a580-d6e1-11eb-81e4-bb3f32261e02.png)
   
-  </div>
+ </div>
   
 49. En el circuito puente de la ﬁgura 8-102 encuentre la corriente a través de cada resistor.
 
@@ -377,9 +377,9 @@ D.Determine el voltaje en R5
 
 ![image](https://user-images.githubusercontent.com/84430867/123534268-8eff1700-d6e1-11eb-9454-b90943c01b48.png)
   
-  </div>
+</div>
 
-** 8-9 Análisis de circuitos por computadora **
+**8-9 Análisis de circuitos por computadora**
 
 51. Utilice Multisim para encontrar las corrientes a través de todos los resistores del circuito que se muestra en la ﬁgura 8-86.
   
