@@ -353,17 +353,17 @@ C.Determine el voltaje V ab.
   
   </div>
 
-** 8 -8 Redes puente **
+**8-8 Redes puente**
 
 47. Vea el circuito puente de la ﬁgura 8-100:
 
-una.¿El puente estába lanceado ? Explique.
+A. ¿El puente estába lanceado ? Explique.
 
-B.Escriba las ecuaciones de malla.
+B. Escriba las ecuaciones de malla.
 
-C.Calcule la corriente a través de R5.
+C. Calcule la corriente a través de R5.
 
-D.Determine el voltaje en R5
+D. Determine el voltaje en R5
 
 <div align="center">
 
