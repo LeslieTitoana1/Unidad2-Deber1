@@ -111,7 +111,7 @@ B. RT = R1 + ( R2 || R3) + [ R4 || ( R5 || R6)]
 
 </div>
 
-11. V ea el circu ito de la ﬁ gura 7-54.
+11. Vea el circu ito de la ﬁgura 7-54.
 
 <div align="center">
 
@@ -199,7 +199,7 @@ B.Calcule el valor requerido de RS.
 
 C.EncuentreV  DS.
 
-25 .Calcule IC y Vce para el circuito de la ﬁgura 7-67.
+25. Calcule IC y Vce para el circuito de la ﬁgura 7-67.
 
 <div align="center">
   
@@ -221,7 +221,7 @@ B. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remueve
 
 </div>
 
-29. Si el potenciómetro de la ﬁgura 7-70 se ajusta para que R2 = 200Ω,de terminalos voltajes Vab y Vcd.
+29. Si el potenciómetro de la ﬁgura 7-70 se ajusta para que R2 = 200Ω, de terminalos voltajes Vab y Vcd.
 
 <div align="center">
   
@@ -239,7 +239,7 @@ B. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remueve
 
 A. Determine el intervalo del voltaje de salida (del mínimo al máximo) que seespera cuando el potenciómetro se ajusta del mínimo al máximo.
 
-B. Calcule R2 cuando V sal  20 V.
+B. Calcule R2 cuando Vsal = 20 V.
 
 # PROBLEMAS CAPÍTULO VIII
 
@@ -247,9 +247,9 @@ B. Calcule R2 cuando V sal  20 V.
 
 una.Escriba Las ecuaciones de Corriente de rama.
 
-B.Encuentre la corriente I 2.
+B. Encuentre la corriente I 2.
 
-C.Determine el voltaje V ab.
+C. Determine el voltaje V ab.
 
 <div align="center">
 
@@ -267,14 +267,13 @@ C.Determine el voltaje V ab.
   
   </div>
 
-27. Use el análisis de malla para encontrar la corriente I2 en el circuito de la ﬁgura 
-8-81.
+27. Use el análisis de malla para encontrar la corriente I2 en el circuito de la ﬁgura 8-81.
 
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123533749-90c6db80-d6dd-11eb-8303-c6596320c8f7.png)
   
-  </div>
+</div>
 
 29. Utilizar el análisis de malla para encontrar las corrientes de lazo en el circuito de la 
 ﬁgura 8-84. Usar sus resultados para determinar I y Vab.
