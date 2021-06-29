@@ -337,7 +337,7 @@ C.Determine el voltaje V ab.
   
   </div>
 
-43. Utilice las estafadores versi las Δ - Y o Y - Δ ,para encontrar la corriente I para el circuito de la ﬁgura 8-96.
+43. Utilice las estafadores versi las Δ - Y o Y - Δ, para encontrar la corriente I para el circuito de la ﬁgura 8-96.
 
 <div align="center">
 
