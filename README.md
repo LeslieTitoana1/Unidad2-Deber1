@@ -329,7 +329,7 @@ C.Determine el voltaje V ab.
   
   </div>
 
-41. Convierta cada una de las redes Y de la ﬁgura 8-94 en su conﬁguración  equivalente.
+41. Convierta cada una de las redes  Y de la ﬁgura 8-94 en su conﬁguración  equivalente.
 
 <div align="center">
 
