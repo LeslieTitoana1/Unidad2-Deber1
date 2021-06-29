@@ -213,7 +213,7 @@ C.EncuentreV  DS.
 
 A. Determine el intervalo de voltajes que aparecerán en R La medida que el potenciómetro varíe entre sus valores mínimo y máximo.
 
-B. Si R2 se ajusta para tener 2.5 k ¿Cuál será el voltaje V  L? Si se remueve elresistor de carga ¿qué voltaje llegará entre las terminales a y b?
+B. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remueve elresistor de carga ¿qué voltaje llegará entre las terminales a y b?
 
 <div align="center">
   
@@ -221,7 +221,7 @@ B. Si R2 se ajusta para tener 2.5 k ¿Cuál será el voltaje V  L? Si se remu
 
 </div>
 
-29. Si el potenciómetro de la ﬁgura 7-70 se ajusta para que R2 200 ,de terminalos voltajes Vab y Vcd.
+29. Si el potenciómetro de la ﬁgura 7-70 se ajusta para que R2 = 200Ω,de terminalos voltajes Vab y Vcd.
 
 <div align="center">
   
