@@ -319,7 +319,7 @@ C.Determine el voltaje V ab.
   
   </div>
 
-** 8-7 Conversiones delta- Y (Pi -T )**
+**8-7 Conversiones delta - Y (Pi -T)**
 
 39. Convierta cada una de las redes  de la ﬁgura 8-92 en su conﬁguración Y equivalente.
 
