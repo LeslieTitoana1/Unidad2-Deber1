@@ -267,7 +267,7 @@ C.Determine el voltaje V ab.
   
   </div>
 
-27. Use el a nálisis de malla para encontrar la corriente I2 en el circuito de la ﬁgura 
+27. Use el análisis de malla para encontrar la corriente I2 en el circuito de la ﬁgura 
 8-81.
 
 <div align="center">
@@ -277,13 +277,13 @@ C.Determine el voltaje V ab.
   </div>
 
 29. Utilizar el análisis de malla para encontrar las corrientes de lazo en el circuito de la 
-ﬁgura 8-84. Usar sus resultados para determinar I y V ab.
+ﬁgura 8-84. Usar sus resultados para determinar I y Vab.
 
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123533776-d1265980-d6dd-11eb-9533-0d2ad087f7f2.png)
   
-  </div>
+</div>
 
 31. Escriba las ecuaciones de malla para la red de la ﬁgura 8-86. Las Encontrar corrientes de lazo con determinantes.
 
@@ -293,7 +293,7 @@ C.Determine el voltaje V ab.
   
   </div>
 
-**8-6 Un ál es es de no hacer s**
+**8-6 Análisis de nodos**
 
 33. Escriba las ecuaciones de nodos para el circuito de la ﬁgura 8-88 y encuentrelos voltajes en los nodos.
 
@@ -311,7 +311,7 @@ C.Determine el voltaje V ab.
   
   </div>
 
-37. Escriba las ecuaciones de nodos para el circuito de la ﬁgura 8-86 y encuentre V 6 .
+37. Escriba las ecuaciones de nodos para el circuito de la ﬁgura 8-86 y encuentre V6Ω.
 
 <div align="center">
 
@@ -321,7 +321,7 @@ C.Determine el voltaje V ab.
 
 **8-7 Conversiones delta - Y (Pi -T)**
 
-39. Convierta cada una de las redes  de la ﬁgura 8-92 en su conﬁguración Y equivalente.
+39. Convierta cada una de las redes Δ de la ﬁgura 8-92 en su conﬁguración Y equivalente.
 
 <div align="center">
 
@@ -329,7 +329,7 @@ C.Determine el voltaje V ab.
   
   </div>
 
-41. Convierta cada una de las redes  Y de la ﬁgura 8-94 en su conﬁguración  equivalente.
+41. Convierta cada una de las redes Y de la ﬁgura 8-94 en su conﬁguración Δ equivalente.
 
 <div align="center">
 
@@ -337,7 +337,7 @@ C.Determine el voltaje V ab.
   
   </div>
 
-43. Utilice las estafadores versi las  -Y o Y -  ,para encontrar la corriente I  para el circuito de la ﬁgura 8-96.
+43. Utilice las estafadores versi las Δ - Y o Y - Δ ,para encontrar la corriente I para el circuito de la ﬁgura 8-96.
 
 <div align="center">
 
