@@ -169,7 +169,7 @@ Veriﬁque que la potencia suministrada por la fuente de voltaje es igual a la p
 
 </div>
 
-19.En el circuito de la ﬁgura 7-62 determinar el intervalo de R (valores máximo ymínimo) que asegurarán que el voltaje de salida sea de V  L  5.6 V mientrasque no se exceda la especiﬁcación de máxima potencia del diodo zener.
+19.En el circuito de la ﬁgura 7-62 determinar el intervalo de R (valores máximo ymínimo) que asegurarán que el voltaje de salida sea de VL = 5.6 V mientrasque no se exceda la especiﬁcación de máxima potencia del diodo zener.
 
 <div align="center">
   
@@ -257,7 +257,7 @@ C.Determine el voltaje V ab.
   
   </div>
 
-**8-5 Un ál es es de mall como ( lazos)**
+**8-5 Análisis de mallas (lazos)**
 
 25. Escriba las ecuaciones de ma lla para el circuito que se muestra en la ﬁgura 8-79 y encuentre las corrientes de lazo.
 
