@@ -75,7 +75,7 @@ Ing. Darwin Omar Alulema Flores
 
 </div>
 
-3.Escriba una expresión para RT1 y RT2 para las redes de la ﬁgura 7-48.
+3. Escriba una expresión para RT1 y RT2 para las redes de la ﬁgura 7-48.
 
 <div align="center">
   
@@ -85,7 +85,7 @@ Ing. Darwin Omar Alulema Flores
 
 </div>
   
-5.Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión.
+5. Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión.
 
 A. RT = ( R1 || R2 || R3) + ( R4 || R5)
 
@@ -93,7 +93,7 @@ B. RT = R1 + ( R2 || R3) + [ R4 || ( R5 || R6)]
 
 **7-2 Análisis de circuitos en serie-paralelo**
 
-7.Determine la resistencia total para cada red de la ﬁgura 7-50.
+7. Determine la resistencia total para cada red de la ﬁgura 7-50.
 
 <div align="center">
   
