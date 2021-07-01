@@ -111,7 +111,7 @@ B. RT = R1 + ( R2 || R3) + [ R4 || ( R5 || R6)]
 
 </div>
 
-11. Vea el circu ito de la ﬁgura 7-54.
+11. Vea el circuito de la ﬁgura 7-54.
 
 <div align="center">
 
@@ -395,12 +395,6 @@ D. Determine el voltaje en R5
 ![image](https://user-images.githubusercontent.com/84430867/123534355-3aa86700-d6e2-11eb-9b1e-9c9b6d5de5f4.png)
   
   </div>
-
-
-
-
-
-
 
 
 # 4. VIDEO
