@@ -318,9 +318,19 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 ![13](https://user-images.githubusercontent.com/84587172/125373022-ff48a200-e349-11eb-91e2-878b30b2655d.png)
 
+
 **8.3 Fuentes de corriente en paralelo y en serie.**
 
 15.- Encuentre el voltaje de V2 y la corriente I1, para el circuito de la figura 8-76.
+
+![14](https://user-images.githubusercontent.com/84587172/125373209-4fbfff80-e34a-11eb-892b-e71aafd5e437.png)
+
+![15](https://user-images.githubusercontent.com/84587172/125373210-5189c300-e34a-11eb-880e-96020735b1e0.png)
+
+17.- Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kΩ en una fuente de voltaje y calculo el voltaje Vab y la corriente I3.
+
+![16](https://user-images.githubusercontent.com/84587172/125373230-5b132b00-e34a-11eb-8f07-9e66ec5c8e15.png)
+
 
 23. Vea el circuito de la ﬁgura 8-83:
 
