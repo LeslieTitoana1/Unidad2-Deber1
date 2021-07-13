@@ -280,11 +280,18 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 ![image](https://user-images.githubusercontent.com/84587172/125372415-ab898900-e348-11eb-9498-2c49a53120de.png)
 
-8.1 Fuentes de corriente constante 
+# PROBLEMAS CAPÍTULO VIII
+
+**8.1 Fuentes de corriente constante **
 
 1.- Encuentra el voltaje de Vs para el circuito de la figura 8-64.
 
-# PROBLEMAS CAPÍTULO VIII
+![6](https://user-images.githubusercontent.com/84587172/125372512-e390cc00-e348-11eb-9c84-e45a032ca329.png)
+
+3.- Vea el circuito de la figura 8-66
+
+![image](https://user-images.githubusercontent.com/84587172/125372533-ef7c8e00-e348-11eb-8b88-cb1a78cef0b2.png)
+
 
 23. Vea el circuito de la ﬁgura 8-83:
 
