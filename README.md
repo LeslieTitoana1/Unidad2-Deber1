@@ -298,6 +298,16 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 ![8](https://user-images.githubusercontent.com/84587172/125372669-48e4bd00-e349-11eb-82aa-ea63c22be2ef.png)
 
+7.- Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito 8-68
+
+![image](https://user-images.githubusercontent.com/84587172/125372771-83e6f080-e349-11eb-87f7-5381d7482188.png)
+
+![9](https://user-images.githubusercontent.com/84587172/125372756-7d587900-e349-11eb-85c3-9a1d3c7399a5.png)
+
+**8-2 Conversiones de fuente**
+
+9.- Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.
+
 23. Vea el circuito de la ﬁgura 8-83:
 
 una.Escriba Las ecuaciones de Corriente de rama.
