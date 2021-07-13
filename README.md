@@ -33,7 +33,8 @@ Ing. Darwin Omar Alulema Flores
 **CAPITULO VII**
 
 <div align="center">
-  
+ 
+![image](https://user-images.githubusercontent.com/84587172/125370161-7169b880-e343-11eb-9157-644dc4151251.png)  
 
 </div>
  
