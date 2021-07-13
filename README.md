@@ -308,6 +308,12 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 9.- Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.
 
+![10](https://user-images.githubusercontent.com/84587172/125372945-d88a6b80-e349-11eb-8fcd-b429549f323f.png)
+
+![11](https://user-images.githubusercontent.com/84587172/125372950-daecc580-e349-11eb-8045-37ac0cca61cd.png)
+
+11.- Vea el circuito de la figura  8-72: 
+
 23. Vea el circuito de la ﬁgura 8-83:
 
 una.Escriba Las ecuaciones de Corriente de rama.
