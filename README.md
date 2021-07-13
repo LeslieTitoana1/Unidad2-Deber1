@@ -262,6 +262,12 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 ![4](https://user-images.githubusercontent.com/84587172/125371794-2f427600-e347-11eb-92da-a38dfd9c59c7.png)
 
+39.- Use Multisim para encontrar  V4, V2, IT, I1, I2 en el circuito de la figura 7-10
+
+![image](https://user-images.githubusercontent.com/84587172/125371999-a5df7380-e347-11eb-999f-bdb742390f4c.png)
+
+![image](https://user-images.githubusercontent.com/84587172/125372001-a7a93700-e347-11eb-8837-8c48d4dc8e67.png)
+
 
 # PROBLEMAS CAPÍTULO VIII
 
