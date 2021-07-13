@@ -314,6 +314,14 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 11.- Vea el circuito de la figura  8-72: 
 
+![12](https://user-images.githubusercontent.com/84587172/125373016-fd7ede80-e349-11eb-84d9-b96cf13a751a.png)
+
+![13](https://user-images.githubusercontent.com/84587172/125373022-ff48a200-e349-11eb-91e2-878b30b2655d.png)
+
+**8.3 Fuentes de corriente en paralelo y en serie.**
+
+15.- Encuentre el voltaje de V2 y la corriente I1, para el circuito de la figura 8-76.
+
 23. Vea el circuito de la ﬁgura 8-83:
 
 una.Escriba Las ecuaciones de Corriente de rama.
