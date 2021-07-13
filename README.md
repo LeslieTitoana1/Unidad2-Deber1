@@ -274,6 +274,15 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 ![image](https://user-images.githubusercontent.com/84587172/125372369-90b71480-e348-11eb-9765-f102ea48bc28.png)
 
+43.- Use PSpice para encontrar  V4, V2, IT, I1, I2 en el circuito de la figura 7-10.
+
+![image](https://user-images.githubusercontent.com/84587172/125372409-a9272f00-e348-11eb-9390-256585d0adf8.png)
+
+![image](https://user-images.githubusercontent.com/84587172/125372415-ab898900-e348-11eb-9498-2c49a53120de.png)
+
+8.1 Fuentes de corriente constante 
+
+1.- Encuentra el voltaje de Vs para el circuito de la figura 8-64.
 
 # PROBLEMAS CAPÍTULO VIII
 
