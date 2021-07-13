@@ -258,88 +258,143 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 37.- Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
 
+<div align="center">
+
 ![3](https://user-images.githubusercontent.com/84587172/125371791-2d78b280-e347-11eb-8ff1-8ccfb131379c.png)
 
 ![4](https://user-images.githubusercontent.com/84587172/125371794-2f427600-e347-11eb-92da-a38dfd9c59c7.png)
 
+</div>
+  
 39.- Use Multisim para encontrar  V4, V2, IT, I1, I2 en el circuito de la figura 7-10
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/125371999-a5df7380-e347-11eb-999f-bdb742390f4c.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/125372001-a7a93700-e347-11eb-8837-8c48d4dc8e67.png)
 
+</div>  
+  
 41.- Use Multisim para encontrar las lecturas del medidor en el circuito de la figura 7-75, si está en la escala de 50 V.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/125372363-8e54ba80-e348-11eb-8b38-408a4d49a00e.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/125372369-90b71480-e348-11eb-9765-f102ea48bc28.png)
 
+</div>  
+  
 43.- Use PSpice para encontrar  V4, V2, IT, I1, I2 en el circuito de la figura 7-10.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/125372409-a9272f00-e348-11eb-9390-256585d0adf8.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/125372415-ab898900-e348-11eb-9498-2c49a53120de.png)
 
+</div>  
+  
 # PROBLEMAS CAPÍTULO VIII
 
 **8.1 Fuentes de corriente constante **
 
 1.- Encuentra el voltaje de Vs para el circuito de la figura 8-64.
 
+<div align="center">
+
 ![6](https://user-images.githubusercontent.com/84587172/125372512-e390cc00-e348-11eb-9c84-e45a032ca329.png)
 
+</div>  
+  
 3.- Vea el circuito de la figura 8-66
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/125372533-ef7c8e00-e348-11eb-8b88-cb1a78cef0b2.png)
 
 ![7](https://user-images.githubusercontent.com/84587172/125372652-3cf8fb00-e349-11eb-9e34-1d2ef108bc7c.png)
 
+</div>  
+  
 5.- Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
+
+<div align="center">
 
 ![8](https://user-images.githubusercontent.com/84587172/125372669-48e4bd00-e349-11eb-82aa-ea63c22be2ef.png)
 
+</div>
+
 7.- Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito 8-68
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/125372771-83e6f080-e349-11eb-87f7-5381d7482188.png)
 
 ![9](https://user-images.githubusercontent.com/84587172/125372756-7d587900-e349-11eb-85c3-9a1d3c7399a5.png)
 
+</div>
+
 **8-2 Conversiones de fuente**
 
 9.- Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.
+
+<div align="center">
 
 ![10](https://user-images.githubusercontent.com/84587172/125372945-d88a6b80-e349-11eb-8fcd-b429549f323f.png)
 
 ![11](https://user-images.githubusercontent.com/84587172/125372950-daecc580-e349-11eb-8045-37ac0cca61cd.png)
 
+</div>  
+  
 11.- Vea el circuito de la figura  8-72: 
 
+<div align="center">
+  
 ![12](https://user-images.githubusercontent.com/84587172/125373016-fd7ede80-e349-11eb-84d9-b96cf13a751a.png)
 
 ![13](https://user-images.githubusercontent.com/84587172/125373022-ff48a200-e349-11eb-91e2-878b30b2655d.png)
 
+</div>  
 
 **8.3 Fuentes de corriente en paralelo y en serie.**
 
 15.- Encuentre el voltaje de V2 y la corriente I1, para el circuito de la figura 8-76.
 
+<div align="center">  
+  
 ![14](https://user-images.githubusercontent.com/84587172/125373209-4fbfff80-e34a-11eb-892b-e71aafd5e437.png)
 
 ![15](https://user-images.githubusercontent.com/84587172/125373210-5189c300-e34a-11eb-880e-96020735b1e0.png)
 
+</div>  
+  
 17.- Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kΩ en una fuente de voltaje y calculo el voltaje Vab y la corriente I3.
 
+<div align="center">
+
 ![16](https://user-images.githubusercontent.com/84587172/125373230-5b132b00-e34a-11eb-8f07-9e66ec5c8e15.png)
+
+</div>
 
 **8.4 Análisis de corriente de rama**
 
 19.- Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes. 
 
+<div align="center">
+
 ![17](https://user-images.githubusercontent.com/84587172/125373354-9c0b3f80-e34a-11eb-8312-ce4e9728a70e.png)
+
+</div>
 
 21.- Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
 
+<div align="center">
+
 ![18](https://user-images.githubusercontent.com/84587172/125373375-a594a780-e34a-11eb-92d6-804695b46145.png)
+
+</div>
 
 23. Vea el circuito de la ﬁgura 8-83:
 
