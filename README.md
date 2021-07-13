@@ -360,7 +360,31 @@ C. Determine el voltaje V ab.
 
   </div>  
 
-**8-7 Conversiones delta - Y (Pi -T)**
+41.- Use Multisim para encontrar las lecturas del medidor en el circuito de la figura 7-75, si está en la escala de 50 V.
+
+![image](https://user-images.githubusercontent.com/84587172/125372130-f8b92b00-e347-11eb-8c1c-8a33a598c99d.png)
+
+![image](https://user-images.githubusercontent.com/84587172/125372136-fce54880-e347-11eb-818b-eda6d895d3f3.png)
+
+43.- Use PSpice para encontrar  V4, V2, IT, I1, I2 en el circuito de la figura 7-10.
+
+![image](https://user-images.githubusercontent.com/84587172/125372147-02db2980-e348-11eb-88a5-4c31c2d21aeb.png)
+
+![image](https://user-images.githubusercontent.com/84587172/125372151-05d61a00-e348-11eb-83ca-8c87668ffa8e.png)
+
+**8.1 Fuentes de corriente constante **
+
+1.- Encuentra el voltaje de Vs para el circuito de la figura 8-64.
+
+![5](https://user-images.githubusercontent.com/84587172/125372218-3027d780-e348-11eb-9c46-c60d56b56765.png)
+
+3.- Vea el circuito de la figura 8-66
+
+![image](https://user-images.githubusercontent.com/84587172/125372296-62393980-e348-11eb-91f7-33062685a532.png)
+
+![6](https://user-images.githubusercontent.com/84587172/125372314-6a917480-e348-11eb-81a4-26008cf5897f.png)
+
+** 8-7 Conversiones delta - Y (Pi -T) **
 
 39. Convierta cada una de las redes Δ de la ﬁgura 8-92 en su conﬁguración Y equivalente.
 
