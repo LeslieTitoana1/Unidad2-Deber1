@@ -242,6 +242,22 @@ A. Determine el intervalo del voltaje de salida (del mínimo al máximo) que see
 
 B. Calcule R2 cuando Vsal = 20 V.
 
+**7-5 Efectos de carga de los instrumentos**
+
+35.- Un voltímetro con una sensibilidad de S = 20 kΩ/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura  7-74. El medidor indica un voltaje de 5.00 V.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587172/125370662-93176f80-e344-11eb-923f-e0b149bae54c.png)
+
+![1](https://user-images.githubusercontent.com/84587172/125370899-310b3a00-e345-11eb-98a2-c732e70487e3.png)
+
+![2](https://user-images.githubusercontent.com/84587172/125370912-35375780-e345-11eb-9af7-74c7b9ff0a59.png)
+  
+</div>
+
+37.- Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
+  
 # PROBLEMAS CAPÍTULO VIII
 
 23. Vea el circuito de la ﬁgura 8-83:
@@ -303,7 +319,7 @@ C. Determine el voltaje V ab.
   
   </div>
 
-35. Repita el problema 33 para el circuito de la ﬁgura 8-90.
+35.- Un voltímetro con una sensibilidad de S = 20 kΩ/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura  7-74. El medidor indica un voltaje de 5.00 V.
 
 <div align="center">
 
@@ -315,9 +331,14 @@ C. Determine el voltaje V ab.
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/123533918-ddf77d00-d6de-11eb-839a-db8b5bceb30a.png)
+ ![image](https://user-images.githubusercontent.com/84587172/125371149-c3134280-e345-11eb-81a3-121d4c091448.png)
+ 
+![3](https://user-images.githubusercontent.com/84587172/125371249-f2c24a80-e345-11eb-8e7c-61050cb8716e.png)
   
+![4](https://user-images.githubusercontent.com/84587172/125371258-f81f9500-e345-11eb-8a5f-eff763a9a2d9.png)
+
   </div>
+  
 
 **8-7 Conversiones delta - Y (Pi -T)**
 
