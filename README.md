@@ -343,7 +343,13 @@ C. Determine el voltaje V ab.
 ![4](https://user-images.githubusercontent.com/84587172/125371258-f81f9500-e345-11eb-8a5f-eff763a9a2d9.png)
 
   </div>
-  
+ 
+ 39.- Use Multisim para encontrar  V4, V2, IT, I1, I2 en el circuito de la figura 7-10
+ 
+ ![image](https://user-images.githubusercontent.com/84587172/125371872-5a2cca00-e347-11eb-8bad-3f29d15b2518.png)
+
+![image](https://user-images.githubusercontent.com/84587172/125371876-5d27ba80-e347-11eb-93e9-110b39cebb02.png)
+
 
 **8-7 Conversiones delta - Y (Pi -T)**
 
