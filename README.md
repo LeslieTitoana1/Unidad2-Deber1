@@ -257,7 +257,12 @@ B. Calcule R2 cuando Vsal = 20 V.
 </div>
 
 37.- Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
-  
+
+![3](https://user-images.githubusercontent.com/84587172/125371791-2d78b280-e347-11eb-8ff1-8ccfb131379c.png)
+
+![4](https://user-images.githubusercontent.com/84587172/125371794-2f427600-e347-11eb-92da-a38dfd9c59c7.png)
+
+
 # PROBLEMAS CAPÍTULO VIII
 
 23. Vea el circuito de la ﬁgura 8-83:
