@@ -268,6 +268,12 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 ![image](https://user-images.githubusercontent.com/84587172/125372001-a7a93700-e347-11eb-8837-8c48d4dc8e67.png)
 
+41.- Use Multisim para encontrar las lecturas del medidor en el circuito de la figura 7-75, si está en la escala de 50 V.
+
+![image](https://user-images.githubusercontent.com/84587172/125372363-8e54ba80-e348-11eb-8b38-408a4d49a00e.png)
+
+![image](https://user-images.githubusercontent.com/84587172/125372369-90b71480-e348-11eb-9765-f102ea48bc28.png)
+
 
 # PROBLEMAS CAPÍTULO VIII
 
